@@ -31,6 +31,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Login Page -
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Login Page - Asset Management/input_Asset Management V2_btnLogin'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Login/Page_Vehicle Page - Asset Management/a_raanthony'))
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Vehicle Page - Asset Management/a_Logout'))
