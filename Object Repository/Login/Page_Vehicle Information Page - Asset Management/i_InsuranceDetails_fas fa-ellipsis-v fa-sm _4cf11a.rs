@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_InsuranceDetails_fas fa-ellipsis-v fa-sm _4cf11a</name>
+   <tag></tag>
+   <elementGuidId>1d60af39-98b5-4f19-9959-5cb3c952b42f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='dropdownMenuLink']/i)[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ea08c4d8-1a2b-4820-9034-778f83f723f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-v fa-sm fa-fw text-gray-400</value>
+      <webElementGuid>08109f50-7509-44a3-85e0-06017418ccb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-header py-3 d-flex flex-row align-items-center justify-content-between&quot;]/div[@class=&quot;dropdown no-arrow&quot;]/a[@id=&quot;dropdownMenuLink&quot;]/i[@class=&quot;fas fa-ellipsis-v fa-sm fa-fw text-gray-400&quot;]</value>
+      <webElementGuid>37ee89cb-6c50-4901-b6fe-a34b248fc614</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='dropdownMenuLink']/i)[7]</value>
+      <webElementGuid>619c0289-d256-457f-ae41-22f40356fc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/a/i</value>
+      <webElementGuid>89869ec3-03d8-43b1-a287-9df10c28d269</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

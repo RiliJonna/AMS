@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Motorcycle/Page_Dashboard - Asset Management/a_Four Wheel",
+      "brokenLocator": "//ul[@id\u003d\u0027accordionSidebar\u0027]/li[5]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//a[contains(@href, \u0027#\u0027)])[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}
