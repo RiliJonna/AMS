@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Vehicle Info</name>
+   <tag></tag>
+   <elementGuidId>1ad35e07-0a5a-42b5-a4cf-4d32682ed5a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='tblVehicleBody']/tr/td[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.d-none.d-sm-inline-block.btn.btn-sm.btn-info.shadow-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1df15763-b549-4a92-8a36-0986b4af757b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>VehicleInfo.jsp?aid=3885</value>
+      <webElementGuid>582ef3ce-ff2d-40f0-8b8e-ed9c77e78488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-inline-block btn btn-sm btn-info shadow-sm</value>
+      <webElementGuid>4a965d9c-57fc-4fb2-bc9f-5a6b5a2cdaae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View Vehicle Info</value>
+      <webElementGuid>7b91cbc7-a2af-4090-a939-09e5e09c0c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblVehicleBody&quot;)/tr[1]/td[8]/a[@class=&quot;d-none d-sm-inline-block btn btn-sm btn-info shadow-sm&quot;]</value>
+      <webElementGuid>84bdabcb-7898-4893-8ece-c14433edebac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='tblVehicleBody']/tr/td[8]/a</value>
+      <webElementGuid>ba5d4403-45cf-4682-a15b-307080d18fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Vehicle Info')]</value>
+      <webElementGuid>158cbe9f-c91e-4a3a-a155-699054639a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KPYS2004201'])[1]/following::a[1]</value>
+      <webElementGuid>d50ef93c-23c7-49cc-9d90-9eec6b1a071d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KPYS2E004257'])[1]/following::a[1]</value>
+      <webElementGuid>c066d462-93c3-4d2e-9db2-7d1e42a31a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO Institution'])[2]/preceding::a[1]</value>
+      <webElementGuid>d2c23ae9-c695-449a-9e35-28afeab601fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Branch'])[2]/preceding::a[1]</value>
+      <webElementGuid>162ae241-c55c-42c9-b628-e695d787532d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Vehicle Info']/parent::*</value>
+      <webElementGuid>b1d9c70c-37ab-46f3-8b2e-9009fe71ba98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'VehicleInfo.jsp?aid=3885')]</value>
+      <webElementGuid>0ab96051-7d9e-49c9-abf5-b21643e06c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a</value>
+      <webElementGuid>6cbe0338-d764-4a5c-a47e-3c29b6c48449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'VehicleInfo.jsp?aid=3885' and (text() = ' View Vehicle Info' or . = ' View Vehicle Info')]</value>
+      <webElementGuid>40e11e9f-4805-43b3-aee5-418a255fc480</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
